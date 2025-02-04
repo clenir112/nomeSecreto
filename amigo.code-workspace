@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../amigo"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "copia challenge",
+		"liveServer.settings.port": 5501
+	}
+}
